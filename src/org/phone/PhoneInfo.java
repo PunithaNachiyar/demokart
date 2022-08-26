@@ -2,7 +2,7 @@ package org.phone;
 
 public class PhoneInfo {
 	private void phoneName() {
-		System.out.println("Phone Name is VIVO");
+		System.out.println("Phone Name is samsung");
 	}
 	private void phoneMieimum() {
 		System.out.println("Phone Mieium is good");
